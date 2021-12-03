@@ -1,0 +1,16 @@
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.exe
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.deps.json
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.runtimeconfig.json
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.runtimeconfig.dev.json
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.dll
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\ref\MusicMachine.dll
+C:\Users\termi\RiderProjects\MusicMachine\bin\Debug\net5.0\MusicMachine.pdb
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.csproj.AssemblyReference.cache
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.AssemblyInfoInputs.cache
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.AssemblyInfo.cs
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.csproj.CoreCompileInputs.cache
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.dll
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\ref\MusicMachine.dll
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.pdb
+C:\Users\termi\RiderProjects\MusicMachine\obj\Debug\net5.0\MusicMachine.genruntimeconfig.cache
